@@ -76,6 +76,7 @@
   animation-name: wave;
   display: inline-block;
   transform-origin: 70% 70%;
+  z-index: 1;
 }
 
 @keyframes wave {

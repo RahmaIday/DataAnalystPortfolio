@@ -1,10 +1,12 @@
 import './App.css';
 import landingImage from './assets/images/landingImage.jpg'
 import wave from './assets/images/wave.png'
+import NavBar from './components/navbar';
 
 function App() {
   return (
     <div className="App">
+      <NavBar></NavBar>
       <div className='greeting-main'>
         <div className='greeting-text-div'>
           <h1 className='greeting-text'>Hello, I'm Rahma 
@@ -20,7 +22,7 @@ function App() {
           <div className='greeting-text-p'>A ..... data analyst with experience in ....... </div>
         </div>
         <div className='greeting-image-div'>
-          <img className='data-image' src={landingImage}/>
+          <img alt='landingImage' className='data-image' src={landingImage}/>
         </div>
 
       </div>
