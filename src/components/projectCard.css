@@ -1,0 +1,52 @@
+/* project cards css */
+
+.project-card-div{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    border: solid rgba(0,0,0,0.45) 1px ;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.45);
+    border-radius: 20px;
+    padding: 2em;
+}
+  
+  
+.project-card-title {
+    font-size: 50px;
+}
+  
+.project-card-desc {
+    font-size: 20px;
+    color: #666;
+}
+  
+  
+.project-card-img-div{
+    width: 100%;
+    height: auto;
+}
+  
+.project-card-img{
+    width: 100%;
+    height: auto;
+}
+  
+/* Media Query */
+@media (max-width: 1380px) {
+    .project-title {
+        font-size: 40px;
+    }
+    .project-card-title{
+        font-size: 25px;
+    }
+    .project-card-desc{
+        font-size: 15px;
+    }
+  
+}
+  
+@media (max-width: 768px) {
+    .project-title {
+        font-size: 30px;
+        text-align: center;
+    }
+}
