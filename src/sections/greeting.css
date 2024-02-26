@@ -12,7 +12,7 @@
   
   .greeting-image-div {
     max-width: 40%;
-    height: auto; 
+    height: auto;
   }
   
   .data-image {
@@ -30,8 +30,17 @@
     line-height: 40px;
     color: #666;
   }
-  
-  
+
+.socials-div{
+  display: flex;
+}
+
+.socials-logo{
+  width:40px;
+  padding-right: 10px;
+  height:auto;
+}
+
   /* Media Query */
   @media (max-width: 1380px) {
     .greeting-text {

@@ -7,7 +7,7 @@ function ProjectCard(props) {
     return (
         <div className='project-card-div'>
             <div>
-                <a href={project.projectLink} className='project-card-title'>
+                <a target="_blank" href={project.projectLink} className='project-card-title'>
                     {project.title}
                 </a>
                 <br></br>

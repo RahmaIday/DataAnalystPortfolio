@@ -12,6 +12,7 @@
   
 .project-card-title {
     font-size: 50px;
+    line-height: 35px;
     text-decoration: none;
     color: black;
 }
@@ -21,7 +22,8 @@
 }
   
 .project-card-desc {
-    font-size: 20px;
+    font-size: 40px;
+    line-height: 20px;
     color: #666;
 }
   
