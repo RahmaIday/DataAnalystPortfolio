@@ -16,7 +16,7 @@ function Greeting(){
                     />
                     </span>
                 </h1>
-                <div className='greeting-text-p'>A ..... data analyst with experience in ....... </div>
+                <div className='greeting-text-p'>A graduating computer science student with data analyst experience using Python, SQL, Tableua, and more. Here lies my digital portfolio of all my projects and the skills I used to create them. </div>
             </div>
             <div className='greeting-image-div'>
             <img alt='landingImage' className='data-image' src={landingImage}/>            
