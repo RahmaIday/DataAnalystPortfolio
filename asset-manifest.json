@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.81eb49d2.css",
-    "main.js": "/portfolio/static/js/main.8b66c330.js",
+    "main.css": "/portfolio/static/css/main.8d792f09.css",
+    "main.js": "/portfolio/static/js/main.7b12e319.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/landingImage.jpg": "/portfolio/static/media/landingImage.ce8eb185d9a451dbfe34.jpg",
+    "static/media/GitHub_logo.png": "/portfolio/static/media/GitHub_logo.00c601f1724a126c1cbd.png",
     "static/media/moviess4.png": "/portfolio/static/media/moviess4.770cb04392773a1dca9e.png",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/moviess5.png": "/portfolio/static/media/moviess5.c3635f40de010b3b5355.png",
     "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/linkedin-icon.png": "/portfolio/static/media/linkedin-icon.43461dbc49cc10acb250.png",
     "static/media/logo.png": "/portfolio/static/media/logo.fb94cdaf3dc29f0c3892.png",
     "static/media/skills-icon.svg": "/portfolio/static/media/skills-icon.060056e17e0e3b78688a12f02ea031e2.svg",
     "static/media/projects-icon.svg": "/portfolio/static/media/projects-icon.97a6f347a533ecb5d1de1dd3b0a6b460.svg",
     "index.html": "/portfolio/index.html",
     "static/media/resume-icon.svg": "/portfolio/static/media/resume-icon.fbe1c9ef563990827c6bf8b9ea189b24.svg",
-    "main.81eb49d2.css.map": "/portfolio/static/css/main.81eb49d2.css.map",
-    "main.8b66c330.js.map": "/portfolio/static/js/main.8b66c330.js.map",
+    "main.8d792f09.css.map": "/portfolio/static/css/main.8d792f09.css.map",
+    "main.7b12e319.js.map": "/portfolio/static/js/main.7b12e319.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81eb49d2.css",
-    "static/js/main.8b66c330.js"
+    "static/css/main.8d792f09.css",
+    "static/js/main.7b12e319.js"
   ]
 }
