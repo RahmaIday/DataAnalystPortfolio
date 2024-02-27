@@ -11,8 +11,8 @@
   
   
 .project-card-title {
-    font-size: 50px;
-    line-height: 35px;
+    font-size: 40px;
+    line-height: 1.1;
     text-decoration: none;
     color: black;
 }
@@ -22,8 +22,8 @@
 }
   
 .project-card-desc {
-    font-size: 40px;
-    line-height: 20px;
+    font-size: 20px;
+    line-height: 30px;
     color: #666;
 }
   
@@ -69,5 +69,22 @@
     }
     .skill{
         font-size: 12px;
+    }
+}
+
+@media (max-width: 768px) {
+    .project-card-title{
+        font-size: 20px;
+    }
+    .project-card-desc{
+        font-size: 10px;
+        line-height: normal;
+        text-align: center;
+    }
+    .skills-title{
+        font-size: 13px;
+    }
+    .skill{
+        font-size: 7px;
     }
 }
