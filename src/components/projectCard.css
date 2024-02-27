@@ -57,12 +57,13 @@
 }
  
 /* Media Query */
-@media (max-width: 1380px) {
+@media (max-width: 1480px) {
     .project-card-title{
         font-size: 25px;
     }
     .project-card-desc{
         font-size: 15px;
+        line-height: normal;
     }
     .skills-title{
         font-size: 18px;
@@ -75,6 +76,8 @@
 @media (max-width: 768px) {
     .project-card-title{
         font-size: 20px;
+        line-height: 1.8em;
+
     }
     .project-card-desc{
         font-size: 10px;

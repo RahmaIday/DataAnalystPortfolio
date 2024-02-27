@@ -42,7 +42,7 @@
 }
 
   /* Media Query */
-  @media (max-width: 1380px) {
+  @media (max-width: 1480px) {
     .greeting-text {
       font-size: 50px;
     }
