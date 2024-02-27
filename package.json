@@ -1,6 +1,6 @@
 {
-  "homepage": "https://rahmaiday.github.io/portfolio",
-  "name": "portfolio",
+  "homepage": "https://rahmaiday.github.io/DataAnalystPortfolio",
+  "name": "data-analyst-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

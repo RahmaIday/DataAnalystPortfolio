@@ -24,7 +24,7 @@ function NavBar() {
 
     return (
         <nav className="navbar-container container">
-            <a href="/portfolio" className="home-link">
+            <a href="/DataAnalystPortfolio" className="home-link">
                 <div className="navbar-logo"><img className='navbar-logo-img' src={logo}/></div>
                 RAHMA.IDAY
             </a>
