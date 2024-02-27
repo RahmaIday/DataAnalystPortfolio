@@ -33,7 +33,7 @@ function Greeting(){
             
             </div>
             <div className='greeting-image-div'>
-            <img alt='landingImage' className='data-image' src={landingImage}/>            
+                <img alt='landingImage' className='data-image' src={landingImage}/>            
             </div>
         </div>
     )
