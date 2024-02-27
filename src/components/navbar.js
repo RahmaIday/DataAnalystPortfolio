@@ -43,7 +43,7 @@ function NavBar() {
 
             <div id="navbar-menu" aria-labelledby="navbar-toggle">
                 <ul className={`navbar-links ${isNavbarExpanded ? 'expanded' : ''}`}>
-                    <li className="navbar-item"><a className="navbar-link" href="/about">
+                    <li className="navbar-item"><a className="navbar-link" href="#projects">
                         <div className="item-logo-div"><img className='item-img' src={projectsIcon}/></div>
                         Projects</a></li>
                     <li className="navbar-item"><a className="navbar-link" href="/blog">

@@ -7,7 +7,7 @@ function Projects() {
     
     return (
         <div className='project-main-div'>
-            <h1 className='project-title'>Projects</h1>
+            <h1 id="projects" className='project-title'>Projects</h1>
             <div className='repo-cards-div-main'>
                 {Object.keys(projectDetails).map((projectKey) => {
                     const project = projectDetails[projectKey];
