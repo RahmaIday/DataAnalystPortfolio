@@ -12,9 +12,11 @@
 }
   
 .repo-cards-div-main {
+    padding: 0% 4%;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 1rem 1rem;  /*row-gap column-gap */
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-template-rows: repeat(auto-fit, minmax(400px, 1fr)); 
+    column-gap: 3rem;
 }
   
 
