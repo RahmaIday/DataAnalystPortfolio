@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DataAnalystPortfolio/static/css/main.c83a06f8.css",
-    "main.js": "/DataAnalystPortfolio/static/js/main.a61a9c20.js",
+    "main.css": "/DataAnalystPortfolio/static/css/main.b5784872.css",
+    "main.js": "/DataAnalystPortfolio/static/js/main.0f1559bf.js",
     "static/js/787.956ffca1.chunk.js": "/DataAnalystPortfolio/static/js/787.956ffca1.chunk.js",
     "static/media/landingImage.jpg": "/DataAnalystPortfolio/static/media/landingImage.ce8eb185d9a451dbfe34.jpg",
     "static/media/MovieProjectImage.png": "/DataAnalystPortfolio/static/media/MovieProjectImage.0f9483263386af4f9426.png",
@@ -9,17 +9,18 @@
     "static/media/Montserrat-Regular.ttf": "/DataAnalystPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/DataAnalystPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/linkedin-icon.png": "/DataAnalystPortfolio/static/media/linkedin-icon.43461dbc49cc10acb250.png",
+    "static/media/RMITLOGO.png": "/DataAnalystPortfolio/static/media/RMITLOGO.0b13effad633d6251c5c.png",
     "static/media/logo.png": "/DataAnalystPortfolio/static/media/logo.fb94cdaf3dc29f0c3892.png",
     "static/media/skills-icon.svg": "/DataAnalystPortfolio/static/media/skills-icon.060056e17e0e3b78688a12f02ea031e2.svg",
     "static/media/projects-icon.svg": "/DataAnalystPortfolio/static/media/projects-icon.97a6f347a533ecb5d1de1dd3b0a6b460.svg",
     "index.html": "/DataAnalystPortfolio/index.html",
     "static/media/resume-icon.svg": "/DataAnalystPortfolio/static/media/resume-icon.fbe1c9ef563990827c6bf8b9ea189b24.svg",
-    "main.c83a06f8.css.map": "/DataAnalystPortfolio/static/css/main.c83a06f8.css.map",
-    "main.a61a9c20.js.map": "/DataAnalystPortfolio/static/js/main.a61a9c20.js.map",
+    "main.b5784872.css.map": "/DataAnalystPortfolio/static/css/main.b5784872.css.map",
+    "main.0f1559bf.js.map": "/DataAnalystPortfolio/static/js/main.0f1559bf.js.map",
     "787.956ffca1.chunk.js.map": "/DataAnalystPortfolio/static/js/787.956ffca1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c83a06f8.css",
-    "static/js/main.a61a9c20.js"
+    "static/css/main.b5784872.css",
+    "static/js/main.0f1559bf.js"
   ]
 }
