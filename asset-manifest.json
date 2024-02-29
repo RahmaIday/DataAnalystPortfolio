@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/DataAnalystPortfolio/static/css/main.fb45085b.css",
-    "main.js": "/DataAnalystPortfolio/static/js/main.0feebc80.js",
+    "main.css": "/DataAnalystPortfolio/static/css/main.c83a06f8.css",
+    "main.js": "/DataAnalystPortfolio/static/js/main.a61a9c20.js",
     "static/js/787.956ffca1.chunk.js": "/DataAnalystPortfolio/static/js/787.956ffca1.chunk.js",
     "static/media/landingImage.jpg": "/DataAnalystPortfolio/static/media/landingImage.ce8eb185d9a451dbfe34.jpg",
     "static/media/MovieProjectImage.png": "/DataAnalystPortfolio/static/media/MovieProjectImage.0f9483263386af4f9426.png",
     "static/media/GitHub_logo.png": "/DataAnalystPortfolio/static/media/GitHub_logo.00c601f1724a126c1cbd.png",
     "static/media/Montserrat-Regular.ttf": "/DataAnalystPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/moviess5.png": "/DataAnalystPortfolio/static/media/moviess5.c3635f40de010b3b5355.png",
     "static/media/Agustina.woff": "/DataAnalystPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/linkedin-icon.png": "/DataAnalystPortfolio/static/media/linkedin-icon.43461dbc49cc10acb250.png",
     "static/media/logo.png": "/DataAnalystPortfolio/static/media/logo.fb94cdaf3dc29f0c3892.png",
@@ -15,12 +14,12 @@
     "static/media/projects-icon.svg": "/DataAnalystPortfolio/static/media/projects-icon.97a6f347a533ecb5d1de1dd3b0a6b460.svg",
     "index.html": "/DataAnalystPortfolio/index.html",
     "static/media/resume-icon.svg": "/DataAnalystPortfolio/static/media/resume-icon.fbe1c9ef563990827c6bf8b9ea189b24.svg",
-    "main.fb45085b.css.map": "/DataAnalystPortfolio/static/css/main.fb45085b.css.map",
-    "main.0feebc80.js.map": "/DataAnalystPortfolio/static/js/main.0feebc80.js.map",
+    "main.c83a06f8.css.map": "/DataAnalystPortfolio/static/css/main.c83a06f8.css.map",
+    "main.a61a9c20.js.map": "/DataAnalystPortfolio/static/js/main.a61a9c20.js.map",
     "787.956ffca1.chunk.js.map": "/DataAnalystPortfolio/static/js/787.956ffca1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb45085b.css",
-    "static/js/main.0feebc80.js"
+    "static/css/main.c83a06f8.css",
+    "static/js/main.a61a9c20.js"
   ]
 }
