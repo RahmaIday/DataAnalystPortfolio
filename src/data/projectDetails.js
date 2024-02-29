@@ -1,5 +1,5 @@
 import movieImage from './MovieProjectImage.png'
-import fakeImage from './moviess5.png'
+import fakeImage from './tbd.jpg'
 
 const projectDetails = {
     project1: {
