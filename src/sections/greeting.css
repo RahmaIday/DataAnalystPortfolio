@@ -75,7 +75,7 @@
     }
     .greeting-image-div {
       margin: 0 auto;
-      height: 256px;
+      max-width: 70%;
     }
     .socials-logo{
       width:25px;
