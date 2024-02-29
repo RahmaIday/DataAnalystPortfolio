@@ -5,7 +5,7 @@ function ProjectCard(props) {
     const { project } = props;
 
     return (
-        <a target="_blank" href={project.projectLink} className='project-card-div'>
+        <a target="_blank" rel="noreferrer" href={project.projectLink} className='project-card-div'>
             <div className='project-card-img-div'>
                 <img className='project-card-img' alt='projectHero' src={project.imageUrl}></img>
                 <div className='project-card-img-overlay'>

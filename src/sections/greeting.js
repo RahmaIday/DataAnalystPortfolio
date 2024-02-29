@@ -21,10 +21,10 @@ function Greeting(){
                 <div className='greeting-text-p'>A graduating computer science student with data analyst experience using Python, SQL, Tableua, and more. Here lies my digital portfolio of all my projects and the skills I used to create them. </div>
                 <br></br>
                 <div className='socials-div'>
-                    <a target="_blank" href='https://github.com/RahmaIday'>
+                    <a target="_blank" rel="noreferrer" href='https://github.com/RahmaIday'>
                         <img alt='github' className='socials-logo' src={GITLOGO}></img>
                     </a>
-                    <a target="_blank" href='https://www.linkedin.com/in/rahma-idayathulla-36850123a'>
+                    <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/rahma-idayathulla-36850123a'>
                         <img alt='Linked In' className='socials-logo' src={LinkedInLogo}></img>
                     </a>
                         
