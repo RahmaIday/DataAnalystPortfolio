@@ -17,6 +17,45 @@
     margin-left: 50px;
 }
 
+.skills-text{
+    padding-top: 2em;
+    color: #666;
+}
+
+.skills-icons-main-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2em;
+    padding-top: 1em;
+}
+
+.skill-icon-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skill-image{
+    height: 55px;
+    width: auto;
+    /* filter: grayscale(90%);
+    transition: filter 0.3s ease;
+    cursor: pointer; */
+}
+
+/* uncomment ^ and below for image colour change on hover */
+
+/* .skill-image:hover{
+    filter: grayscale(0%);
+} */
+
+.skill-name{
+    color: #666;
+    font-size: 12px;
+    margin-top: 1em;
+}
+
   /* Media Query */
   @media (max-width: 1380px) {
   }

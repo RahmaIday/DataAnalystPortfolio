@@ -5,15 +5,15 @@ import seaborn from '../assets/images/skills/seaborn.png';
 const skillDetails= {
     skill1: {
         title: "NumPy",
-        imageUrl: {NumPy}
+        imageUrl: NumPy
     },
     skill2: {
         title: "pandas",
-        imageUrl: {pandas}
+        imageUrl: pandas
     },
     skill3: {
         title: "seaborn",
-        imageUrl: {seaborn}
+        imageUrl: seaborn
     }
 };
 
