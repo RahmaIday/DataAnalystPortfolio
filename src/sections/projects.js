@@ -2,7 +2,7 @@ import React from 'react';
 import './projects.css';
 import './section.css'
 
-import projectDetails from '../data/projectDetails';
+import projectDetails from '../details/projectDetails';
 import ProjectCard from '../components/projectCard';
 
 function Projects() {
