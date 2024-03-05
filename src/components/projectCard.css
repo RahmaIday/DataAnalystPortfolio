@@ -41,6 +41,7 @@
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
     overflow: hidden;
+
 }
   
 .project-card-img{
@@ -50,6 +51,11 @@
     width: 100%;
     height:auto;
     transition: transform 0.3s ease;
+    /* cropping and centering image PROPERLY */
+    max-height: 250px;
+    object-fit: cover; 
+    object-position: center;
+
 }
 
 .project-card-div:hover .project-card-img {
