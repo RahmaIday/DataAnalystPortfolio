@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/DataAnalystPortfolio/static/css/main.b5784872.css",
-    "main.js": "/DataAnalystPortfolio/static/js/main.0f1559bf.js",
+    "main.css": "/DataAnalystPortfolio/static/css/main.95df413e.css",
+    "main.js": "/DataAnalystPortfolio/static/js/main.77c47961.js",
     "static/js/787.956ffca1.chunk.js": "/DataAnalystPortfolio/static/js/787.956ffca1.chunk.js",
     "static/media/landingImage.jpg": "/DataAnalystPortfolio/static/media/landingImage.ce8eb185d9a451dbfe34.jpg",
+    "static/media/comp3ani.gif": "/DataAnalystPortfolio/static/media/comp3ani.c0ce30be5785e6189451.gif",
     "static/media/MovieProjectImage.png": "/DataAnalystPortfolio/static/media/MovieProjectImage.0f9483263386af4f9426.png",
     "static/media/GitHub_logo.png": "/DataAnalystPortfolio/static/media/GitHub_logo.00c601f1724a126c1cbd.png",
     "static/media/Montserrat-Regular.ttf": "/DataAnalystPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -11,16 +12,18 @@
     "static/media/linkedin-icon.png": "/DataAnalystPortfolio/static/media/linkedin-icon.43461dbc49cc10acb250.png",
     "static/media/RMITLOGO.png": "/DataAnalystPortfolio/static/media/RMITLOGO.0b13effad633d6251c5c.png",
     "static/media/logo.png": "/DataAnalystPortfolio/static/media/logo.fb94cdaf3dc29f0c3892.png",
+    "static/media/seaborn.png": "/DataAnalystPortfolio/static/media/seaborn.8beaa10d8072e114e5ed.png",
+    "static/media/NumPy.png": "/DataAnalystPortfolio/static/media/NumPy.a8e574488c66a97cb043.png",
     "static/media/skills-icon.svg": "/DataAnalystPortfolio/static/media/skills-icon.060056e17e0e3b78688a12f02ea031e2.svg",
     "static/media/projects-icon.svg": "/DataAnalystPortfolio/static/media/projects-icon.97a6f347a533ecb5d1de1dd3b0a6b460.svg",
     "index.html": "/DataAnalystPortfolio/index.html",
     "static/media/resume-icon.svg": "/DataAnalystPortfolio/static/media/resume-icon.fbe1c9ef563990827c6bf8b9ea189b24.svg",
-    "main.b5784872.css.map": "/DataAnalystPortfolio/static/css/main.b5784872.css.map",
-    "main.0f1559bf.js.map": "/DataAnalystPortfolio/static/js/main.0f1559bf.js.map",
+    "main.95df413e.css.map": "/DataAnalystPortfolio/static/css/main.95df413e.css.map",
+    "main.77c47961.js.map": "/DataAnalystPortfolio/static/js/main.77c47961.js.map",
     "787.956ffca1.chunk.js.map": "/DataAnalystPortfolio/static/js/787.956ffca1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5784872.css",
-    "static/js/main.0f1559bf.js"
+    "static/css/main.95df413e.css",
+    "static/js/main.77c47961.js"
   ]
 }
