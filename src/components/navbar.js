@@ -46,12 +46,12 @@ function NavBar() {
                     <li className="navbar-item"><a className="navbar-link" href="#projects">
                         <div className="item-logo-div"><img className='item-img' src={projectsIcon}/></div>
                         Projects</a></li>
-                    <li className="navbar-item"><a className="navbar-link" href="/blog">
+                    {/* <li className="navbar-item"><a className="navbar-link" href="/blog">
                         <div className="item-logo-div"><img className='item-img' src={skillsIcon}/></div>
                         Skills</a></li>
                     <li className="navbar-item"><a className="navbar-link" href="/careers">
                         <div className="item-logo-div"><img className='item-img' src={resumeIcon}/></div>
-                        Resume</a></li>
+                        Resume</a></li> */}
                 </ul>
             </div>
         </nav>
