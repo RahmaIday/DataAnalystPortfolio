@@ -1,5 +1,6 @@
 .repo-cards-div-main {
-    padding: 0% 4%;
+    width: 92%;
+    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr; 
     grid-template-rows: repeat(auto-fit, minmax(400px, 1fr)); 
@@ -15,8 +16,7 @@
 @media (max-width: 768px) {
     .repo-cards-div-main {
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      padding: 0% 15%;
-
+      width: 70%;
     }
   
 }
