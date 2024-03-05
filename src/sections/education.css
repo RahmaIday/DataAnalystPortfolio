@@ -6,6 +6,7 @@
 
 .institution{
     font-size: 40px;
+    line-height: normal;
     padding-top: 0.8rem;
     font-weight: 700;
 }
@@ -14,6 +15,7 @@
     font-size: 31px;
     padding-top: 0.6rem;
     font-weight: 600;
+    line-height: normal;
 
 }
 
@@ -21,6 +23,8 @@
     font-size: 31px;
     padding-top: 0.6rem;
     padding-bottom: 0.6rem;
+    line-height: normal;
+
 }
 
 .education-container:hover + .education-card-border {
