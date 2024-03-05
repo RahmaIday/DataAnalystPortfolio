@@ -16,7 +16,6 @@ function Skills(){
             <Fade right duration={1000}>
                 <div className="skills-right-div">
                 <div className="section-title"> What I do</div>
-
                 </div>
 
             </Fade>
