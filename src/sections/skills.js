@@ -8,8 +8,8 @@ import skillDetails from "../details/skillDetails";
 function Skills(){
     const skillsOpener = "A DATA ANALYST ON A MISSION TO FIND ALL THE DATA PATTERNS THAT WERE MISSED";
     // const summaryPoints = {
-    //     point1:"",
-    //     point2:""
+    //     point1:"something about ML",
+    //     point2:"something about pretty aesthetic graph visualisations"
     // };
 
     return(
