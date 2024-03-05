@@ -15,5 +15,8 @@
 @media (max-width: 768px) {
     .repo-cards-div-main {
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      padding: 0% 15%;
+
     }
+  
 }
