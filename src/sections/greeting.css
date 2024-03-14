@@ -31,15 +31,6 @@
     color: #666;
   }
 
-.socials-div{
-  display: flex;
-}
-
-.socials-logo{
-  width:60px;
-  padding-right: 20px;
-  height:auto;
-}
 
   /* Media Query */
   @media (max-width: 1480px) {
@@ -48,10 +39,6 @@
     }
     .greeting-text-p {
       font-size: 20px;
-    }
-    .socials-logo{
-      width:40px;
-      padding-right: 10px;
     }
   }
   @media (max-width: 768px) {
@@ -70,16 +57,9 @@
     .greeting-main {
       display: block;
     }
-    .socials-div{
-      justify-content: center;
-    }
     .greeting-image-div {
       margin: 0 auto;
       max-width: 70%;
-    }
-    .socials-logo{
-      width:25px;
-      padding-right: 10px;
     }
   }
   
