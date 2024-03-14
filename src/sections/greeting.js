@@ -3,9 +3,11 @@ import wave from '../assets/images/wave.png'
 import './greeting.css';
 import GITLOGO from '../assets/images/GitHub_logo.png'
 import LinkedInLogo from '../assets/images/linkedin-icon.png'
+import { Fade } from 'react-reveal';
 
 function Greeting(){
     return(
+        <Fade bottom duration={1000} distance="40px">
         <div className='greeting-main'>
             <div className='greeting-text-div'>
                 <h1 className='greeting-text'>Hello, I'm Rahma 
@@ -36,6 +38,7 @@ function Greeting(){
                 <img alt='landingImage' className='data-image' src={landingImage}/>            
             </div>
         </div>
+        </Fade>
     )
 }
 
