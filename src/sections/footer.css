@@ -1,4 +1,12 @@
 .footer-main-div{
-    background-color: blue;
+    background-color: #EAEDF0; 
     display: flex;
+    padding: 1rem;
+    margin-top: 4rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-credits{
+    
 }
