@@ -19,7 +19,7 @@ function Greeting(){
                     />
                     </span>
                 </h1>
-                <div className='greeting-text-p'>A graduating computer science student with data analyst experience using Python, SQL, Tableua, and more. Here lies my digital portfolio of all my projects and the skills I used to create them. </div>
+                <div className='greeting-text-p'>A graduating computer science student with data analyst experience using Python, SQL and more. Here lies my digital portfolio of all my projects and the skills I used to create them. </div>
                 <br></br>
                 <Socials></Socials>
             </div>

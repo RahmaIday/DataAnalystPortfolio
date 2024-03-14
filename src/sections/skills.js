@@ -13,7 +13,7 @@ function Skills(){
     }, []); // This effect runs once when the component mounts
 
     // const skillsOpener = "A DATA ANALYST ON A MISSION TO FIND ALL THE DATA PATTERNS THAT WERE MISSED";
-    const skillsOpener = 'HERE ARE SOME OF MY SKILLS';
+    const skillsOpener = 'A DATA ANALYST UNVEILING INSIGHTS, ONE DATASET AT A TIME';
     return (
         <div className="section-main-div skills-main-div">
             <Fade left duration={1000} when={isLoaded}>
@@ -25,6 +25,7 @@ function Skills(){
                 <div className="skills-right-div">
                     <div className="section-title"> What I do</div>
                     <div className="skills-text">{skillsOpener}</div>
+                    <br></br>
                     <div className="skills-icons-main-div">
                         {Object.keys(skillDetails).map((key, index) => (
                             <div key={index} className="skill-icon-div">
