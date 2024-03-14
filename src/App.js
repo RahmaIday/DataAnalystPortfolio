@@ -13,7 +13,6 @@ function App() {
       <Greeting></Greeting>
       <br></br>
       <br></br>
-      <br></br>
       <Skills></Skills>
       <Education></Education>
       <Projects></Projects>
