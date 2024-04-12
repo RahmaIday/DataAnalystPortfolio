@@ -11,7 +11,7 @@ const projectDetails = {
     },
     project2: {
         title: "Movie Correlation",
-        description: "Data Cleaning + Exploring Correlation in a Movie Dataset with Python in Jupyter Notebooks",
+        description: "Performing Data Cleaning and Exploring Correlation in a Movie Dataset with Python in Jupyter Notebooks",
         imageUrl: movieImage,
         projectLink: "https://github.com/RahmaIday/Data-Analysis-Projects/blob/main/Movie%20Correlation%20Project.ipynb",
         skills: ["Python","Pandas","NumPy","Seaborn","Jupyter Notebook"]
