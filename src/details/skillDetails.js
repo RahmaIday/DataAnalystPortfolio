@@ -2,6 +2,8 @@ import NumPy from '../assets/images/skills/NumPy.png';
 import pandas from '../assets/images/skills/pandas.png';
 import seaborn from '../assets/images/skills/seaborn.png';
 import SQL from '../assets/images/skills/sql-icon.jpg'
+import Scikit from '../assets/images/skills/scikit.png'
+
 const skillDetails= {
     skill1: {
         title: "NumPy",
@@ -18,6 +20,10 @@ const skillDetails= {
     skill4: {
         title: "SQL",
         imageUrl: SQL
+    },
+    skill5: {
+        title: "Scikit-Learn",
+        imageUrl: Scikit
     }
 };
 
