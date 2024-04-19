@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DataAnalystPortfolio/static/css/main.eab53717.css",
-    "main.js": "/DataAnalystPortfolio/static/js/main.38e35e7f.js",
+    "main.js": "/DataAnalystPortfolio/static/js/main.1d4f7026.js",
     "static/js/787.956ffca1.chunk.js": "/DataAnalystPortfolio/static/js/787.956ffca1.chunk.js",
     "static/media/landingImage.jpg": "/DataAnalystPortfolio/static/media/landingImage.ce8eb185d9a451dbfe34.jpg",
     "static/media/comp3ani.gif": "/DataAnalystPortfolio/static/media/comp3ani.c0ce30be5785e6189451.gif",
@@ -20,11 +20,11 @@
     "static/media/projects-icon.svg": "/DataAnalystPortfolio/static/media/projects-icon.97a6f347a533ecb5d1de1dd3b0a6b460.svg",
     "index.html": "/DataAnalystPortfolio/index.html",
     "main.eab53717.css.map": "/DataAnalystPortfolio/static/css/main.eab53717.css.map",
-    "main.38e35e7f.js.map": "/DataAnalystPortfolio/static/js/main.38e35e7f.js.map",
+    "main.1d4f7026.js.map": "/DataAnalystPortfolio/static/js/main.1d4f7026.js.map",
     "787.956ffca1.chunk.js.map": "/DataAnalystPortfolio/static/js/787.956ffca1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eab53717.css",
-    "static/js/main.38e35e7f.js"
+    "static/js/main.1d4f7026.js"
   ]
 }
